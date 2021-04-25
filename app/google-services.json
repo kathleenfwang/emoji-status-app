@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1038829549379",
+    "project_id": "emoji-status-app-89c8d",
+    "storage_bucket": "emoji-status-app-89c8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038829549379:android:ae4a4e744a364b63ce21f6",
+        "android_client_info": {
+          "package_name": "com.kathleenwang.emojistatus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038829549379-e6kk8n0g7hj88c19ald76jo160topdte.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kathleenwang.emojistatus",
+            "certificate_hash": "9e967053fcb227d5f2f909cea001691241c8884a"
+          }
+        },
+        {
+          "client_id": "1038829549379-hoah4n6lqlc6iobt2gvgjlpejdbu9bqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHo0crJEA0eIlSgvoP5Q79xbI-mesmAVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038829549379-hoah4n6lqlc6iobt2gvgjlpejdbu9bqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
